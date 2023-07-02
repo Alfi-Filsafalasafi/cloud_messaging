@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736555980277",
+    "project_id": "coba-fcm-b794f",
+    "storage_bucket": "coba-fcm-b794f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736555980277:android:0bb0a57b21b78173033cbc",
+        "android_client_info": {
+          "package_name": "com.cloudmessaging.cloud_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736555980277-68u4j32plpi5pc4js55uhaqqjg7opls0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudmessaging.cloud_messaging",
+            "certificate_hash": "9947dd18bbcf06c798ec773bd9a7d383f5b40c0c"
+          }
+        },
+        {
+          "client_id": "736555980277-p0fsc7ibss03198ev97jdhk90apue9j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjjao8mwbroCQa6v3F2G6kpggGOBQtEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736555980277-p0fsc7ibss03198ev97jdhk90apue9j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
